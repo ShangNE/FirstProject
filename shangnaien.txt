@@ -1,4 +1,9 @@
 Iron man
 商乃恩加油加油
 
-新建github链家拉取develop分支进行代码操作
+新建github连接拉取develop分支进行代码操作
+注意：首次将本地分支推送到远程仓库,命令为：
+git push -u 远程仓库别名（一般都为origin） 本地分支名称:远程分支名称
+
+如果希望远程分支名称和本地分支名称保持一致,可以对命令进行简化
+git push -u origin 分支名称
